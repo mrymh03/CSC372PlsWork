@@ -1,4 +1,4 @@
-vercel.jso{
+{
   "headers": [
     {
       "source": "/Build/(.*).br",
